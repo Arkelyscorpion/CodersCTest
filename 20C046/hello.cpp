@@ -1,0 +1,1 @@
+cout << "This throws an error";
